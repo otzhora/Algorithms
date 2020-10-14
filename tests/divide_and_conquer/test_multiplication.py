@@ -1,5 +1,6 @@
-from src.divide_and_conquer.multiplication import karatsuba_multiply
 from random import randint
+
+from src.divide_and_conquer.multiplication import karatsuba_multiply
 
 
 def test_karatsuba():
